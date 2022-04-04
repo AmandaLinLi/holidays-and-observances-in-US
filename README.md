@@ -18,14 +18,15 @@ Scrape the information off this website:
 **rvest**
 **XML**
 
-### Website:
+### website:
 https://www.timeanddate.com/holidays/us/?hol=313
 
 ## Scripts:
 
-~/R/function.R 
-~/make.R
+- ~/R/function.R 
 
-## outputs
-~/data/outputs/US-hol-obs(2022-2030).qs
-~/data/outputs/US-hol-obs(2022-2030).csv
+- ~/make.R
+
+## Outputs
+- ~/data/outputs/US-hol-obs(2022-2030).qs
+- ~/data/outputs/US-hol-obs(2022-2030).csv
